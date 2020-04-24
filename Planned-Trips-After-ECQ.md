@@ -1,6 +1,6 @@
 Planned Trips After ECQ
 
- - [ ] Massage 
- - [ ] Free Lunch for new hires
+ - [ ] Japan 
+ - [ ] Bantayan
  - [ ] SamgyupSalamat
- - [ ] Cebu North - Bantayan
+ - [ ] Buy switch
